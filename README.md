@@ -45,3 +45,11 @@ Each file has its own `main()` function, so compile and run the files separately
 1. Open the `.cpp` file in Dev-C++.
 2. Select **Compile & Run** from the **Execute** menu.
 3. The program will open in the console window.
+
+## Advanced Practice
+
+- `22_array_statistics.cpp` — Array sum, average, largest, and smallest values
+- `23_string_palindrome.cpp` — String comparison with a palindrome function
+- `24_recursive_fibonacci.cpp` — Fibonacci series using recursion
+- `25_bubble_sort.cpp` — Sorting an array with bubble sort
+- `26_file_write_read.cpp` — Writing to and reading from a text file
