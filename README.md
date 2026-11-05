@@ -42,9 +42,9 @@ Each file has its own `main()` function, so compile and run the files separately
 
 ### Using Dev-C++
 
-1. Open the `.cpp` file in Dev-C++.
-2. Select **Compile & Run** from the **Execute** menu.
-3. The program will open in the console window.
+- Open the `.cpp` file in Dev-C++.
+- Select **Compile & Run** from the **Execute** menu.
+- The program will open in the console window.
 
 ## Advanced Practice
 
