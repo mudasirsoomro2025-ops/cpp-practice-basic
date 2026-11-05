@@ -1,4 +1,4 @@
-# C++ Basic Practice Pack
+# C++ Practice
 
 This repository starts with basic C++ input and output and gradually covers conditions, loops, switch statements, number problems, and patterns.
 
