@@ -21,6 +21,11 @@ This repository starts with basic C++ input and output and gradually covers cond
 15. `14_menu_calculator.cpp` — Calculator using `switch`
 16. `15_sum_digits.cpp` — Sum of digits
 17. `16_pattern_stars.cpp` — Star pattern using nested loops
+18. `17_function_greet.cpp` — Basic void function
+19. `18_function_add_numbers.cpp` — Function with parameters and return value
+20. `19_function_even_odd.cpp` — Boolean function
+21. `20_function_factorial.cpp` — Function with a loop
+22. `21_function_largest.cpp` — Function for finding the largest number
 
 ## Common Code Style
 
