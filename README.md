@@ -1,27 +1,36 @@
 # C++ Basic Practice Pack
 
-Ye practice pack C++ ke bilkul basic concepts se start hota hai aur conditions aur loops tak jata hai.
+Ye repository C++ practice ke liye basic input/output se start hoti hai aur conditions, loops, switch, number problems aur patterns tak jati hai.
 
 ## Programs
 
 1. `01_input_output.cpp` — input aur output
-2. `02_even_odd.cpp` — `if/else` se even ya odd
-3. `03_positive_negative_zero.cpp` — `if/else if/else`
-4. `04_largest_of_three.cpp` — teen numbers mein largest
-5. `05_grade_calculator.cpp` — conditions aur ranges
-6. `06_count_1_to_n.cpp` — `for` loop
-7. `07_sum_1_to_n.cpp` — loop se sum
-8. `08_multiplication_table.cpp` — multiplication table
-9. `09_factorial.cpp` — loop se factorial
-10. `10_guessing_game.cpp` — `while` loop aur conditions
+2. `02_arithmetic_calculator.cpp` — arithmetic operators aur calculator
+3. `02_even_odd.cpp` — even ya odd
+4. `03_positive_negative_zero.cpp` — positive, negative ya zero
+5. `04_largest_of_three.cpp` — teen numbers mein largest
+6. `05_grade_calculator.cpp` — conditions aur ranges
+7. `06_count_1_to_n.cpp` — `for` loop
+8. `07_sum_1_to_n.cpp` — loop se sum
+9. `08_multiplication_table.cpp` — multiplication table
+10. `09_factorial.cpp` — loop se factorial
+11. `10_guessing_game.cpp` — `while` loop aur conditions
+12. `11_while_countdown.cpp` — `while` loop countdown
+13. `12_sum_even_numbers.cpp` — even numbers ka sum
+14. `13_prime_number.cpp` — prime number check
+15. `14_menu_calculator.cpp` — `switch` menu calculator
+16. `15_sum_digits.cpp` — digits ka sum
+17. `16_pattern_stars.cpp` — nested loops se star pattern
 
-## Compile karne ka tareeqa
+## Common code style
 
-Example:
+Har program mein `#include <iostream>` aur `using namespace std;` use kiya gaya hai. Har file ka apna `main()` function hai, isliye files ko separately compile karein.
+
+## Compile and run
 
 ```bash
-g++ 02_even_odd.cpp -o even_odd
+g++ -std=c++17 02_even_odd.cpp -o even_odd
 ./even_odd
 ```
 
-Har file ko alag compile karein, kyunki har file mein apna `main()` function hai.
+Sabhi programs ko `g++ -std=c++17 -Wall -Wextra` ke saath compile-test kiya gaya hai.
