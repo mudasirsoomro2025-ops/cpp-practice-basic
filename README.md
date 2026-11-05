@@ -1,36 +1,41 @@
 # C++ Basic Practice Pack
 
-Ye repository C++ practice ke liye basic input/output se start hoti hai aur conditions, loops, switch, number problems aur patterns tak jati hai.
+This repository starts with basic C++ input and output and gradually covers conditions, loops, switch statements, number problems, and patterns.
 
 ## Programs
 
-1. `01_input_output.cpp` — input aur output
-2. `02_arithmetic_calculator.cpp` — arithmetic operators aur calculator
-3. `02_even_odd.cpp` — even ya odd
-4. `03_positive_negative_zero.cpp` — positive, negative ya zero
-5. `04_largest_of_three.cpp` — teen numbers mein largest
-6. `05_grade_calculator.cpp` — conditions aur ranges
-7. `06_count_1_to_n.cpp` — `for` loop
-8. `07_sum_1_to_n.cpp` — loop se sum
-9. `08_multiplication_table.cpp` — multiplication table
-10. `09_factorial.cpp` — loop se factorial
-11. `10_guessing_game.cpp` — `while` loop aur conditions
-12. `11_while_countdown.cpp` — `while` loop countdown
-13. `12_sum_even_numbers.cpp` — even numbers ka sum
-14. `13_prime_number.cpp` — prime number check
-15. `14_menu_calculator.cpp` — `switch` menu calculator
-16. `15_sum_digits.cpp` — digits ka sum
-17. `16_pattern_stars.cpp` — nested loops se star pattern
+1. `01_input_output.cpp` — Input and output
+2. `02_arithmetic_calculator.cpp` — Arithmetic operators and calculator
+3. `02_even_odd.cpp` — Even or odd number
+4. `03_positive_negative_zero.cpp` — Positive, negative, or zero
+5. `04_largest_of_three.cpp` — Find the largest of three numbers
+6. `05_grade_calculator.cpp` — Conditions and grade ranges
+7. `06_count_1_to_n.cpp` — `for` loop counting
+8. `07_sum_1_to_n.cpp` — Sum of numbers from 1 to N
+9. `08_multiplication_table.cpp` — Multiplication table
+10. `09_factorial.cpp` — Factorial using a loop
+11. `10_guessing_game.cpp` — `while` loop and conditions
+12. `11_while_countdown.cpp` — Countdown using a `while` loop
+13. `12_sum_even_numbers.cpp` — Sum of even numbers
+14. `13_prime_number.cpp` — Prime number check
+15. `14_menu_calculator.cpp` — Calculator using `switch`
+16. `15_sum_digits.cpp` — Sum of digits
+17. `16_pattern_stars.cpp` — Star pattern using nested loops
 
-## Common code style
+## Common Code Style
 
-Har program mein `#include <iostream>` aur `using namespace std;` use kiya gaya hai. Har file ka apna `main()` function hai, isliye files ko separately compile karein.
+Every program uses:
 
-## Compile and run
+```cpp
+#include <iostream>
+using namespace std;
+```
+
+Each file has its own `main()` function, so compile and run the files separately.
+
+## Compile and Run
 
 ```bash
 g++ -std=c++17 02_even_odd.cpp -o even_odd
 ./even_odd
 ```
-
-Sabhi programs ko `g++ -std=c++17 -Wall -Wextra` ke saath compile-test kiya gaya hai.
