@@ -4,28 +4,28 @@ This repository starts with basic C++ input and output and gradually covers cond
 
 ## Programs
 
-1. `01_input_output.cpp` — Input and output
-2. `02_arithmetic_calculator.cpp` — Arithmetic operators and calculator
-3. `02_even_odd.cpp` — Even or odd number
-4. `03_positive_negative_zero.cpp` — Positive, negative, or zero
-5. `04_largest_of_three.cpp` — Find the largest of three numbers
-6. `05_grade_calculator.cpp` — Conditions and grade ranges
-7. `06_count_1_to_n.cpp` — `for` loop counting
-8. `07_sum_1_to_n.cpp` — Sum of numbers from 1 to N
-9. `08_multiplication_table.cpp` — Multiplication table
-10. `09_factorial.cpp` — Factorial using a loop
-11. `10_guessing_game.cpp` — `while` loop and conditions
-12. `11_while_countdown.cpp` — Countdown using a `while` loop
-13. `12_sum_even_numbers.cpp` — Sum of even numbers
-14. `13_prime_number.cpp` — Prime number check
-15. `14_menu_calculator.cpp` — Calculator using `switch`
-16. `15_sum_digits.cpp` — Sum of digits
-17. `16_pattern_stars.cpp` — Star pattern using nested loops
-18. `17_function_greet.cpp` — Basic void function
-19. `18_function_add_numbers.cpp` — Function with parameters and return value
-20. `19_function_even_odd.cpp` — Boolean function
-21. `20_function_factorial.cpp` — Function with a loop
-22. `21_function_largest.cpp` — Function for finding the largest number
+- `input_output.cpp` — Input and output
+- `arithmetic_calculator.cpp` — Arithmetic operators and calculator
+- `even_odd.cpp` — Even or odd number
+- `positive_negative_zero.cpp` — Positive, negative, or zero
+- `largest_of_three.cpp` — Find the largest of three numbers
+- `grade_calculator.cpp` — Conditions and grade ranges
+- `count_1_to_n.cpp` — `for` loop counting
+- `sum_1_to_n.cpp` — Sum of numbers from 1 to N
+- `multiplication_table.cpp` — Multiplication table
+- `factorial.cpp` — Factorial using a loop
+- `guessing_game.cpp` — `while` loop and conditions
+- `while_countdown.cpp` — Countdown using a `while` loop
+- `sum_even_numbers.cpp` — Sum of even numbers
+- `prime_number.cpp` — Prime number check
+- `menu_calculator.cpp` — Calculator using `switch`
+- `sum_digits.cpp` — Sum of digits
+- `pattern_stars.cpp` — Star pattern using nested loops
+- `function_greet.cpp` — Basic void function
+- `function_add_numbers.cpp` — Function with parameters and return value
+- `function_even_odd.cpp` — Boolean function
+- `function_factorial.cpp` — Function with a loop
+- `function_largest.cpp` — Function for finding the largest number
 
 ## Common Code Style
 
@@ -48,8 +48,8 @@ Each file has its own `main()` function, so compile and run the files separately
 
 ## Advanced Practice
 
-- `22_array_statistics.cpp` — Array sum, average, largest, and smallest values
-- `23_string_palindrome.cpp` — String comparison with a palindrome function
-- `24_recursive_fibonacci.cpp` — Fibonacci series using recursion
-- `25_bubble_sort.cpp` — Sorting an array with bubble sort
-- `26_file_write_read.cpp` — Writing to and reading from a text file
+- `array_statistics.cpp` — Array sum, average, largest, and smallest values
+- `string_palindrome.cpp` — String comparison with a palindrome function
+- `recursive_fibonacci.cpp` — Fibonacci series using recursion
+- `bubble_sort.cpp` — Sorting an array with bubble sort
+- `file_write_read.cpp` — Writing to and reading from a text file
